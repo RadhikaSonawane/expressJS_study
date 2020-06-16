@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "Express study",
+  "main": "expServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radhika Sonawane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
