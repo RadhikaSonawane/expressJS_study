@@ -1,13 +1,13 @@
 # expressJS_study
 Learn Express js
 
-1: Install NodeJS
-2: Install express js 
-3: Create Own Server using ExpressJs 
-4: Nodemon Installation
-5:  Handling Request and Responses = GET request
-6: Routing in ExpressJS
-7: Calling HTML pages / Any Pages
-8:  Simple Calculator Project
-9:  Handling Post Request 
-10: Use of Body Parser
+1: Install NodeJS <br/>
+2: Install express js <br />
+3: Create Own Server using ExpressJs <br />
+4: Nodemon Installation <br />
+5:  Handling Request and Responses = GET request <br />
+6: Routing in ExpressJS <br />
+7: Calling HTML pages / Any Pages <br />
+8:  Simple Calculator Project <br />
+9:  Handling Post Request <br />
+10: Use of Body Parser <br />
